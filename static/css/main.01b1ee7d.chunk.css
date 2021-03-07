@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif;background:linear-gradient(270deg,#071b52 0,teal)}.f1,.search{text-align:center}.scroll{overflow-y:scroll;border:5px solid #000;height:800px}.cardlist{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));grid-gap:10px}.card{width:250px;height:350px;border-radius:10px;background:linear-gradient(#eaf826 10%,#2d8692 90%);margin:20px;text-align:center;color:#f6efc6}
+/*# sourceMappingURL=main.01b1ee7d.chunk.css.map */
