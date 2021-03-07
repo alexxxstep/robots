@@ -17,6 +17,12 @@ body {
   text-align: center;
 }
 
+.scroll {
+  overflow-y: scroll;
+  border: 5px solid black;
+  height: 800px;
+}
+
 .cardlist {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
